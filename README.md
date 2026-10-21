@@ -7,19 +7,19 @@
     <img src="images/your-file.png" width="400">
 -->
 
-<div align="center">
 
-# Khanh Dang — E-Portfolio
 
-**[Your Program] student at [Your University]**
+# Khanh (Tobi) Dang Nguyen
+
+**Master of Data Science and Innovation student at University of Technology Sydney**
 <br>
-Interested in [topic 1] · [topic 2] · [topic 3]
 
-[![Email](https://img.shields.io/badge/Email-khanh.h0168598%40gmail.com-2f5d50?style=flat&logo=gmail&logoColor=white)](mailto:khanh.h0168598@gmail.com)
+[![Email](https://img.shields.io/badge/Email-khanhdnguyen007@gmail.com.com-2f5d50?style=flat&logo=gmail&logoColor=white)](mailto:khanhdnguyen007@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-danggkhanhh-181717?style=flat&logo=github)](https://github.com/danggkhanhh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--handle-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-handle)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khanhnguyendang007-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/khanhnguyendang007/)
+
 
 ---
 
@@ -39,27 +39,31 @@ Interested in [topic 1] · [topic 2] · [topic 3]
 
 ## 👋 About me
 
-Hi, I'm **Khanh Dang**. I'm a [year] student studying [major] at [university].
-I enjoy [what you like doing / what motivates you]. This e-portfolio collects my
-best academic work, what I learned from each piece, and where I'm heading next.
+Hi, I'm Khanh! 👋
+
+I'm a first-year **Master of Data Science student at the University of Technology Sydney (UTS)**, and I hold a Bachelor's degree in Information Technology from Macquarie University.
+
+I've always enjoyed working with data, from cleaning and exploring datasets to analysing them and uncovering meaningful insights using many models and methods. One of my favourite sayings is, "If you're really good with data, the world will whisper its secrets to you." This quote perfectly captures why I'm passionate about data science. I believe that every dataset has a story to tell, and I love the process of discovering it.
+
+This e-portfolio showcases some of my best academic projects, the skills and lessons I've gained along the way, and where I hope to take my data science journey next.
 
 | | |
 |---|---|
-| 🎓 **Program** | B.Sc. [Major] |
-| 📅 **Year** | [2nd year] — expected graduation [2028] |
-| 📍 **Location** | [City, Country] |
-| 🗣️ **Languages** | Vietnamese (native), English ([level]) |
+| 🎓 **Program** | Master of Data Science and Innovation |
+| 📅 **Year** | 1st year — expected graduation 2027 |
+| 📍 **Location** | Sydney, Australia |
+| 🗣️ **Languages** | Vietnamese (native), English (proficient) |
 
 ---
 
 ## 🎓 Education
 
-**[University Name]** — B.Sc. [Major] &nbsp;·&nbsp; *2024 – present*
-- GPA: [x.xx / 4.00]
-- Relevant coursework: [Course 1], [Course 2], [Course 3], [Course 4]
+**University of Technology Sydney** — M.DataSci. &nbsp;·&nbsp; *2026 – present*
+- Relevant coursework: Machine Learning, Deep Learning, Natural Language Processing, Advanced Data Analytics, Artificial Intelligence, Data Engineering.
 
-**[High School Name]** &nbsp;·&nbsp; *2021 – 2024*
-- [Achievement, e.g. graduated with honors]
+**Macquarie University** — B.IT. [Data Science] &nbsp;·&nbsp; *2023 – 2025*
+- WAM: 73/100 (Credit)
+- Relevant coursework: Database Systems, Data Structures and Algorithms, Statistical Data Analysis, Data Mining, Software Engineering, Python Programming.
 
 ---
 
