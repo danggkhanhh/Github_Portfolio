@@ -1,25 +1,24 @@
 <!--
   HOW TO EDIT
-  - Replace everything in [square brackets] with your own info.
-  - Delete any section you don't need.
+  - Anything still in [square brackets] is for you to fill in.
   - Badges come from https://shields.io — change the text after /badge/ to edit them.
   - To add images: upload them to an `images/` folder in this repo and use
     <img src="images/your-file.png" width="400">
 -->
 
-
+<div align="center">
 
 # Khanh (Tobi) Dang Nguyen
 
-**Master of Data Science and Innovation student at University of Technology Sydney**
+**Master of Data Science and Innovation student at the University of Technology Sydney**
 <br>
+Machine learning · NLP & agentic AI · Data visualisation
 
-[![Email](https://img.shields.io/badge/Email-khanhdnguyen007@gmail.com.com-2f5d50?style=flat&logo=gmail&logoColor=white)](mailto:khanhdnguyen007@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-khanhdnguyen007%40gmail.com-2f5d50?style=flat&logo=gmail&logoColor=white)](mailto:khanhdnguyen007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-danggkhanhh-181717?style=flat&logo=github)](https://github.com/danggkhanhh)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khanhnguyendang007-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/khanhnguyendang007/)
 
+</div>
 
 ---
 
@@ -29,8 +28,8 @@
 - [Education](#-education)
 - [Selected work](#-selected-work)
 - [Skills & competencies](#-skills--competencies)
-- [Experience & activities](#-experience--activities)
-- [Awards](#-awards)
+- [Experience](#-experience)
+- [Awards & certifications](#-awards--certifications)
 - [Reflection](#-reflection)
 - [Goals](#-goals)
 - [Contact](#-contact)
@@ -41,16 +40,16 @@
 
 Hi, I'm Khanh! 👋
 
-I'm a first-year **Master of Data Science student at the University of Technology Sydney (UTS)**, and I hold a Bachelor's degree in Information Technology from Macquarie University.
+I'm a first-year **Master of Data Science and Innovation student at the University of Technology Sydney (UTS)**, and I hold a Bachelor of Information Technology, majoring in Data Science, from Macquarie University.
 
 I've always enjoyed working with data, from cleaning and exploring datasets to analysing them and uncovering meaningful insights using many models and methods. One of my favourite sayings is, "If you're really good with data, the world will whisper its secrets to you." This quote perfectly captures why I'm passionate about data science. I believe that every dataset has a story to tell, and I love the process of discovering it.
 
-This e-portfolio showcases some of my best academic projects, the skills and lessons I've gained along the way, and where I hope to take my data science journey next.
+This e-portfolio showcases some of my best academic and industry projects, the skills and lessons I've gained along the way, and where I hope to take my data science journey next.
 
 | | |
 |---|---|
-| 🎓 **Program** | Master of Data Science and Innovation |
-| 📅 **Year** | 1st year — expected graduation 2027 |
+| 🎓 **Program** | Master of Data Science and Innovation, UTS |
+| 📅 **Year** | 1st year (started July 2026) — expected graduation [2027] |
 | 📍 **Location** | Sydney, Australia |
 | 🗣️ **Languages** | Vietnamese (native), English (proficient) |
 
@@ -58,96 +57,59 @@ This e-portfolio showcases some of my best academic projects, the skills and les
 
 ## 🎓 Education
 
-**University of Technology Sydney** — M.DataSci. &nbsp;·&nbsp; *2026 – present*
-- Relevant coursework: Machine Learning, Deep Learning, Natural Language Processing, Advanced Data Analytics, Artificial Intelligence, Data Engineering.
+**University of Technology Sydney** — Master of Data Science and Innovation &nbsp;·&nbsp; *Jul 2026 – present*
+- Relevant coursework: Data Science for Innovation, Statistical Thinking for Data Science, Machine Learning Algorithms and Applications.
 
-**Macquarie University** — B.IT. [Data Science] &nbsp;·&nbsp; *2023 – 2025*
-- WAM: 73/100 (Credit)
-- Relevant coursework: Database Systems, Data Structures and Algorithms, Statistical Data Analysis, Data Mining, Software Engineering, Python Programming.
+**Macquarie University** — Bachelor of Information Technology, Major in Data Science &nbsp;·&nbsp; *Sep 2023 – Jun 2026*
+- Relevant coursework: Database Systems, Data Structures and Algorithms, Statistical Data Analysis, Data Mining, Software Engineering, Python Programming
 
 ---
 
 ## 📂 Selected work
 
-| # | Artifact | Course | Term | Type | Link |
+| # | Project | Context | Date | Type | Tools |
 |:-:|---|---|---|---|---|
-| 1 | [Research paper title] | [COURSE 101] | Fall 2025 | Research | [PDF](files/research-paper.pdf) |
-| 2 | [Team project name] | [COURSE 202] | Spring 2026 | Project | [Repo](https://github.com/danggkhanhh/your-project) |
-| 3 | [Essay / report title] | [COURSE 150] | Fall 2025 | Writing | [PDF](files/essay.pdf) |
-| 4 | [Presentation title] | [COURSE 210] | Spring 2026 | Presentation | [Slides](files/slides.pdf) |
+| 1 | [AI sub-agents for Destrier Group](#1-ai-sub-agents-for-destrier-group) | Macquarie PACE, industry-sponsored | Feb – Jun 2026 | AI / NLP | Python, MySQL, NLP, RAG |
+| 2 | [DataViz 2025: WHO pollution dashboards](#2-dataviz-2025-who-pollution-dashboards) 🏆 | Macquarie University competition | Oct – Nov 2025 | Visualisation | Python, Streamlit |
+| 3 | [ASA DataFest 2025: Savills real estate](#3-asa-datafest-2025-savills-real-estate) | Macquarie University datathon | Apr 2025 | Analysis | Python, R, Tableau |
 
-### 1. [Research paper title]
+### 1. AI sub-agents for Destrier Group
 
-> **Course:** [COURSE 101 — Course name] &nbsp;|&nbsp; **Term:** Fall 2025 &nbsp;|&nbsp; **Skills:** Critical thinking, Research
+> **Role:** AI Developer &nbsp;|&nbsp; **Context:** Industry-sponsored project, Macquarie University PACE &nbsp;|&nbsp; **Date:** Feb – Jun 2026 &nbsp;|&nbsp; **Skills:** Machine learning, NLP, Collaboration
 
-**Context.** What was the assignment or question? Who was the audience?
+**Context.** An industry-sponsored project with Destrier Group, working in a team of five developers alongside industry stakeholders to build intelligent query handling into an agentic AI system.
 
-**Process.** How did you approach it — sources, methods, tools?
+**What I did.**
+- Built and deployed two domain-specific AI sub-agents for intelligent query handling, using machine learning and NLP models.
+- Stress-tested and operationalised an existing agentic AI prototype, identified its failure modes, and supported its transition to a Retrieval-Augmented Generation (RAG) architecture.
+- Prepared and preprocessed training data with MySQL and Python to improve data quality for model development.
+- Enhanced responsive UI components for the RISHI website using HTML and CSS.
 
-**Outcome.** What did you produce, and what was the result (grade, feedback)?
+**Outcome.** The sub-agents reached **88% accuracy** across the project's evaluation scenarios.
 
-<details>
-<summary><b>💭 Reflection</b></summary>
 
-- **What went well:** …
-- **What was challenging:** …
-- **What I'd do differently:** …
-- **What I learned:** …
+### 2. [DataViz 2025: WHO pollution dashboards](https://github.com/NhatNguyen3001/MQ-DATAVIZ-2025)
 
-</details>
+> **Role:** UI Developer & Data Analyst &nbsp;|&nbsp; **Context:** Macquarie University &nbsp;|&nbsp; **Date:** Oct – Nov 2025 &nbsp;|&nbsp; **Skills:** Data cleaning, Visualisation, Communication
 
-### 2. [Team project name]
+**Context.** A data visualisation competition using World Health Organization (WHO) air and water pollution data.
 
-> **Course:** [COURSE 202 — Course name] &nbsp;|&nbsp; **Term:** Spring 2026 &nbsp;|&nbsp; **Skills:** Collaboration, Problem solving
+**What I did.**
+- Cleaned, organised and analysed WHO pollution datasets in Python to identify countries exceeding WHO air and water quality guidelines.
+- Built interactive Streamlit dashboards to show air and water quality trends and let users compare countries easily.
 
-**Context.** …
+**Outcome.** 🏆 Won **Best Interactive Visualisation**.
 
-**My role.** What were you responsible for on the team?
+### 3. ASA DataFest 2025: Savills real estate
 
-**Outcome.** …
+> **Role:** Project Lead &nbsp;|&nbsp; **Context:** Macquarie University &nbsp;|&nbsp; **Date:** Apr 2025 &nbsp;|&nbsp; **Skills:** Leadership, Analysis, Consulting
 
-<details>
-<summary><b>💭 Reflection</b></summary>
+**Context.** ASA DataFest, a datathon using real estate pricing data provided by Savills.
 
-- **What went well:** …
-- **What was challenging:** …
-- **What I'd do differently:** …
-- **What I learned:** …
-
-</details>
-
-### 3. [Essay / report title]
-
-> **Course:** [COURSE 150 — Course name] &nbsp;|&nbsp; **Term:** Fall 2025 &nbsp;|&nbsp; **Skills:** Written communication
-
-**Context.** …
-
-**Main argument / findings.** …
-
-<details>
-<summary><b>💭 Reflection</b></summary>
-
-- **What went well:** …
-- **What I'd do differently:** …
-- **What I learned:** …
-
-</details>
-
-### 4. [Presentation title]
-
-> **Course:** [COURSE 210 — Course name] &nbsp;|&nbsp; **Term:** Spring 2026 &nbsp;|&nbsp; **Skills:** Oral communication
-
-**Context.** …
-
-**Outcome.** …
-
-<details>
-<summary><b>💭 Reflection</b></summary>
-
-- **What went well:** …
-- **What I learned:** …
-
-</details>
+**What I did.**
+- Led the team's workflow from data preparation and exploratory analysis through to visualisation and the final presentation.
+- Cleaned, analysed and visualised the pricing data using Python, RStudio and Tableau.
+- Identified key market patterns for the Technology and Finance industries and turned them into consulting recommendations.
 
 ---
 
@@ -155,56 +117,65 @@ This e-portfolio showcases some of my best academic projects, the skills and les
 
 | Competency | What it means to me | Evidence |
 |---|---|---|
-| **Critical thinking** | Evaluating sources and building evidence-based arguments | [Artifact 1](#1-research-paper-title) |
-| **Communication** | Writing and presenting clearly for different audiences | [Artifact 3](#3-essay--report-title), [Artifact 4](#4-presentation-title) |
-| **Collaboration** | Planning and delivering work as part of a team | [Artifact 2](#2-team-project-name) |
-| **Problem solving** | Breaking down complex problems and testing solutions | [Artifact 2](#2-team-project-name) |
+| **Machine learning & AI** | Building and evaluating models that solve real problems | [Project 1](#1-ai-sub-agents-for-destrier-group) |
+| **Data analysis** | Cleaning messy data and finding the patterns that matter | [Project 2](#2-dataviz-2025-who-pollution-dashboards), [Project 3](#3-asa-datafest-2025-savills-real-estate) |
+| **Communication** | Turning analysis into visuals and recommendations people can act on | [Project 2](#2-dataviz-2025-who-pollution-dashboards), [Project 3](#3-asa-datafest-2025-savills-real-estate) |
+| **Leadership & collaboration** | Leading workflows and working with teams and stakeholders | [Project 1](#1-ai-sub-agents-for-destrier-group), [Project 3](#3-asa-datafest-2025-savills-real-estate) |
 
-**Tools & technical skills**
+**Languages & core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Data & visualisation**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudioide&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Development**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 💼 Experience & activities
+## 💼 Experience
 
-**[Role]** — [Organization] &nbsp;·&nbsp; *[Summer 2025]*
-- [What you did, with a number if possible — e.g. "Organized 3 events for 200+ students"]
-- [Another responsibility or result]
+**AI Developer, Industry-Sponsored Project** — Destrier Group | Macquarie University PACE, Sydney &nbsp;·&nbsp; *Feb 2026 – Jun 2026*
+- Built and deployed two domain-specific AI sub-agents reaching 88% accuracy across evaluation scenarios.
+- Supported an agentic AI prototype's transition to a RAG architecture.
+- See [Project 1](#1-ai-sub-agents-for-destrier-group) for details.
 
-**[Club / Volunteer role]** — [Organization] &nbsp;·&nbsp; *[2024 – present]*
-- [What you did]
-
----
-
-## 🏆 Awards
-
-- **[Award / Scholarship name]** — [Organization], [Year]
-- **[Dean's List]** — [University], [Term]
+**Software Programmer Intern** — Mercedes-Benz Haxaco, Ho Chi Minh City, Vietnam &nbsp;·&nbsp; *Jul 2023 – Sep 2023*
+- Developed and maintained front-end components for the Mercedes-Benz Haxaco website using HTML, CSS and JavaScript.
+- Diagnosed and fixed layout, styling and functionality defects to improve reliability and user experience.
+- Tested components across development iterations and worked with the team through Git/GitHub.
 
 ---
 
-## 🪞 Reflection
+## 🏆 Awards & certifications
 
-> *"[One sentence that captures your growth or learning philosophy.]"*
-
-When I started my program, I [where you were]. Through courses like [course]
-and projects like [project], I learned to [key skill]. The most challenging
-moment was [challenge], and it taught me [lesson].
-
-Building this portfolio helped me see [a pattern you noticed in your work].
+- 🏆 **Best Interactive Visualisation** — DataViz 2025, Macquarie University (Nov 2025)
+- 📜 **Google Data Analytics Professional Certificate** — Google (Aug 2025)
 
 ---
 
 ## 🎯 Goals
 
-- **Short term (this year):** [e.g. land a summer internship in …]
-- **Long term:** [e.g. work as a … / pursue a master's in …]
-- **How I'll get there:** [courses, projects, certifications you plan]
+- **Short term:** Secure an internship in Machine Learning, AI, or Data Analytics in Sydney, where I can apply my technical skills, gain hands-on experience, and learn from industry professionals.
+- **Long term:** Build a career as a Data Scientist or Machine Learning Engineer, developing intelligent AI-driven solutions that solve real-world problems.
+- **How I'll get there:** Complete my Master's degree, work on real-world projects, participate in hackathons, continuously improve my technical skills, and connect with professionals in the AI and data science community.
 
 ---
 
@@ -212,9 +183,10 @@ Building this portfolio helped me see [a pattern you noticed in your work].
 
 I'm open to internships, research opportunities and collaborations.
 
-- 📧 **Email:** [khanh.h0168598@gmail.com](mailto:khanh.h0168598@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle)
-- 📄 **Resume:** [Download PDF](files/resume.pdf)
+- 📧 **Email:** [khanhdnguyen007@gmail.com](mailto:khanhdnguyen007@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/khanhnguyendang007](https://www.linkedin.com/in/khanhnguyendang007/)
+- 🐙 **GitHub:** [github.com/danggkhanhh](https://github.com/danggkhanhh)
+- 📄 **Resume:** [Download PDF](Resume.pdf)
 
 <div align="center">
 <sub>Last updated: October 2026</sub>
